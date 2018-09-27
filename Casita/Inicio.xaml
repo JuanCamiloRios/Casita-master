@@ -4,12 +4,10 @@
              x:Class="Casita.Inicio">
     <ContentPage.Content>
         <StackLayout>
-        <Label Text="La casita Elegante"
+            <Label Text="La casita Elegante"
                FontSize="Medium"
                FontFamily="Garamonod"
-
-               />
-            
+                />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
